@@ -1,0 +1,5 @@
+DAFTAR AKTOR AKTIF
+Nama Toko: Toko Sukses Makmur
+========================
+ID: ACT-01 | Nama: Andi
+ID: ACT-02 | Nama: Rina
